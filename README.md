@@ -26,7 +26,7 @@ C:\Projects\PUBGHack\
 * Make sure you are using "Release" & "x64" for debug mode
 Open project properties (Alt + F7)
 Set "Configuration" as "Release" and set "Platform" as "x64"
- * From tab "C/C++" select "General"
+ ** From tab "C/C++" select "General"
 From right section, beside "Additional Include Directories" insert the library include directory :
 C:\Projects\PUBGHack\SFML-2.5.1\include
   * From tab "Linker" select "General"

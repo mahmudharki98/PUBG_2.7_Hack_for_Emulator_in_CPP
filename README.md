@@ -26,23 +26,19 @@ C:\Projects\PUBGHack\
 * Make sure you are using "Release" & "x64" for debug mode
 Open project properties (Alt + F7)
 Set "Configuration" as "Release" and set "Platform" as "x64"
-
-** From tab "C/C++" select "General"
+    - From tab "C/C++" select "General"
 From right section, beside "Additional Include Directories" insert the library include directory :
 C:\Projects\PUBGHack\SFML-2.5.1\include
-
-** From tab "Linker" select "General"
+    - From tab "Linker" select "General"
 From right section, beside "Additional Library Directories" insert the library directory :
 C:\Projects\PUBGHack\SFML-2.5.1\lib
-
-** From tab "Linker" select "Input"
+    - From tab "Linker" select "Input"
 From right section, beside "Additional Dependencies" append :
 sfml-audio.lib
 sfml-graphics.lib
 sfml-system.lib
 sfml-window.lib
-
-** Then click "OK"
+    - Then click "OK"
 
 * Copy all files that doesn't contains prefix "-d-2" from "C:\Projects\PUBGHack\SFML-2.5.1\bin\" to "C:\Projects\PUBGHack\x64\Release\"
 openal32.dll
@@ -62,6 +58,7 @@ Choose batch build for "Release|x64"
 * Loading the driver :
 Disable your antivirus and its self-defense
 Download and setup "processhacker-2.38-setup.exe"
+https://processhacker.sourceforge.io/downloads.php
 Make sure its the correct version "2.38"
 Make sure to check the box in front of "Install KProcessHacker driver and allow unrestricted access (not recommended)" while setting up the program
 

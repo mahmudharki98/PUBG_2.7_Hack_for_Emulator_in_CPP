@@ -1,7 +1,7 @@
 # PUBG 2.7 ESP Hack for Emulator (C++ Source Code)
 
 ---
-|**\* GoodDie PUBG HackGoodDie PUBG Hack**|
+|**\* GoodDie PUBG Hack**|
 | --- |
 |**\* This is not the full protected version**|
 |**\* More tools will be added in the next version 2.8**|

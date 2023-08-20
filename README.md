@@ -12,7 +12,7 @@ Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
 
 * **Auther** : Programmer / Ayman
 
-[![PUBG 2.0 Hack : PUBG Cororna Hack ببجي كورونا هاك](./resources/thumbnail.jpg)](./resources/thumbnail.jpg "PUBG 2.8 Hack : GoodDie PUBG Hack جود ضاي ببجي هاك")
+[![PUBG 2.7 Hack : PUBG Cororna Hack ببجي كورونا هاك](./resources/thumbnail.jpg)](./resources/thumbnail.jpg "PUBG 2.7 Hack : GoodDie PUBG Hack جود ضاي ببجي هاك")
 
 ## How to use
 * See "How-to-use" folder

@@ -39,7 +39,7 @@ sfml-graphics.lib
 sfml-system.lib
 sfml-window.lib
 ** Then click "OK"
-
+d
 * Copy all files that doesn't contains prefix "-d-2" from "C:\Projects\PUBGHack\SFML-2.5.1\bin\" to "C:\Projects\PUBGHack\x64\Release\"
 openal32.dll
 sfml-audio-2.dll

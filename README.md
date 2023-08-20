@@ -26,20 +26,24 @@ C:\Projects\PUBGHack\
 * Make sure you are using "Release" & "x64" for debug mode
 Open project properties (Alt + F7)
 Set "Configuration" as "Release" and set "Platform" as "x64"
+
 ** From tab "C/C++" select "General"
 From right section, beside "Additional Include Directories" insert the library include directory :
 C:\Projects\PUBGHack\SFML-2.5.1\include
+
 ** From tab "Linker" select "General"
 From right section, beside "Additional Library Directories" insert the library directory :
 C:\Projects\PUBGHack\SFML-2.5.1\lib
+
 ** From tab "Linker" select "Input"
 From right section, beside "Additional Dependencies" append :
 sfml-audio.lib
 sfml-graphics.lib
 sfml-system.lib
 sfml-window.lib
+
 ** Then click "OK"
-d
+
 * Copy all files that doesn't contains prefix "-d-2" from "C:\Projects\PUBGHack\SFML-2.5.1\bin\" to "C:\Projects\PUBGHack\x64\Release\"
 openal32.dll
 sfml-audio-2.dll
